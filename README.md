@@ -22,11 +22,3 @@ two cards to each other, and whichever card is the largest is the winner of that
 gains one point, and at the end of the game (when no more cards are in the deck) report the winner
 to chat and end the program. In the event of a tie, compare the suits to determine a winner (from
 highest value to lowest: spades, hearts, diamonds, clubs).
-
-*One more note: You might find it handy to store the value of a card as a string to handle king, queen,
-etc. If so, you can use the getters to return a value from 1-13 to (11-13 = jack/queen/king) to make
-comparison simple. You can handle this any way you wish of course.
-
-Submit a zipfile containing each .java file (Deck.java, Card.java, (someTesterYouName).java) to
-Blackboard. Note that while you have the whole rest of the semester to do this, you will absolutely
-want to start early!
