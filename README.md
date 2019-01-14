@@ -1,4 +1,4 @@
-# Homework3
+# Intro to Computer Science - Homework 3
 Write two classes that will handle the definition of a deck of cards. For this program you will need to
 provide a Deck class, a Card class, and a tester class (which we will use to play a simple game). The
 definitions of these classes are below:
